@@ -1,4 +1,3 @@
-# vietnam-us-trade-analysis
 # Vietnam–US Trade & Tariff Impact Analysis
 
 ## Overview
@@ -22,34 +21,11 @@ The study combines trade data, tariff policies, and macroeconomic indicators to:
 
 ---
 
-## Dataset
-
-The dataset used in this project is available on Kaggle:
-
-🔗 [Vietnam–US Trade & Tariff Dataset](https://www.kaggle.com/datasets/cmanhh/data-tc-ng-thu-quan)
-
-### Download via Kaggle API
-
-```bash
-kaggle datasets download -d cmanhh/data-tc-ng-thu-quan
-```
-
-### Dataset Includes
-
-- Vietnam import/export activities
-- U.S.–Vietnam trade balance
-- Tariff policies
-- Export product categories
-- GDP and macroeconomic indicators
-- Population and income data of potential export markets
-
----
-
 ## Tools & Technologies
 
 - **Power BI** — dashboard visualization and interactive analytics
-- **RStudio** — data preprocessing and statistical analysis
-- **Python** — data analysis and advanced analytics
+- **SQL** — multi-source relational data ingestion, cleaning, and transformation
+- **Python** — exploratory data analysis and scenario modeling
 
 ---
 
